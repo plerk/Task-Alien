@@ -17,8 +17,6 @@ $modules{$_} = $_ for qw(
   Alien::Build::MB
   Alien::Build::Plugin::Fetch::Cache
   App::af
-  Dist::Zilla::Plugin::Alien
-  Dist::Zilla::Plugin::AlienBuild
   ExtUtils::MakeMaker
   Test::More
 );

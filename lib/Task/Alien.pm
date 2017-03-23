@@ -13,7 +13,7 @@ use warnings;
 =head1 DESCRIPTION
 
 This L<Task> distribution installs L<Alien::Base>, L<Alien::Build>, L<Alien::Base::ModuleBuild> and their 
-assoicated development tools, including L<Dist::Zilla> plugins.
+assoicated development tools.
 
 =head1 SEE ALSO
 
