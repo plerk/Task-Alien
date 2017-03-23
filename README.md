@@ -1,4 +1,4 @@
-# Task::Alien [![Build Status](https://secure.travis-ci.org/plicease/Task-Alien.png)](http://travis-ci.org/plicease/Task-Alien)
+# Task::Alien
 
 Install Alien developer tools
 
