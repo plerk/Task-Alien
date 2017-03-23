@@ -2,6 +2,19 @@
 
 Install Alien developer tools
 
+# SYNOPSIS
+
+    % cpanm Task::Alien
+
+# DESCRIPTION
+
+This [Task](https://metacpan.org/pod/Task) distribution installs [Alien::Base](https://metacpan.org/pod/Alien::Base), [Alien::Build](https://metacpan.org/pod/Alien::Build), [Alien::Base::ModuleBuild](https://metacpan.org/pod/Alien::Base::ModuleBuild) and their 
+assoicated development tools, including [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla) plugins.
+
+# SEE ALSO
+
+[Alien](https://metacpan.org/pod/Alien), [Alien::Base](https://metacpan.org/pod/Alien::Base), [Alien::Build](https://metacpan.org/pod/Alien::Build), [alienfile](https://metacpan.org/pod/alienfile)
+
 # AUTHOR
 
 Graham Ollis <plicease@cpan.org>

@@ -10,6 +10,15 @@ my %modules;
 my $post_diag;
 
 $modules{$_} = $_ for qw(
+  Alien
+  Alien::Base
+  Alien::Base::ModuleBuild
+  Alien::Build
+  Alien::Build::MB
+  Alien::Build::Plugin::Fetch::Cache
+  App::af
+  Dist::Zilla::Plugin::Alien
+  Dist::Zilla::Plugin::AlienBuild
   ExtUtils::MakeMaker
   Test::More
 );
