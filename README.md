@@ -9,7 +9,7 @@ Install Alien developer tools
 # DESCRIPTION
 
 This [Task](https://metacpan.org/pod/Task) distribution installs [Alien::Base](https://metacpan.org/pod/Alien::Base), [Alien::Build](https://metacpan.org/pod/Alien::Build), [Alien::Base::ModuleBuild](https://metacpan.org/pod/Alien::Base::ModuleBuild) and their 
-assoicated development tools.
+associated development tools.
 
 # SEE ALSO
 
