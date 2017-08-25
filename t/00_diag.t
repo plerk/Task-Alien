@@ -11,11 +11,25 @@ my $post_diag;
 
 $modules{$_} = $_ for qw(
   Alien
-  Alien::Base
+  Alien::Autotools
   Alien::Base::ModuleBuild
   Alien::Build
+  Alien::Build::Git
   Alien::Build::MB
+  Alien::Build::Plugin::Decode::SourceForge
   Alien::Build::Plugin::Fetch::Cache
+  Alien::Build::Plugin::Fetch::Prompt
+  Alien::Build::Plugin::Fetch::Rewrite
+  Alien::Build::Plugin::Probe::GnuWin32
+  Alien::Role::Alt
+  Alien::Role::Dino
+  Alien::autoconf
+  Alien::automake
+  Alien::cmake3
+  Alien::gmake
+  Alien::libtool
+  Alien::m4
+  Alien::patch
   App::af
   ExtUtils::MakeMaker
   Test::More
